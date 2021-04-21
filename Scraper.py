@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+# As a fun challenge, I want to adapt this script to alert me
+# to new jobs that mention webscraping and Python.
+# This will be my project for the week (if I don't get
+# sidetracked with something more exciting)
+
+
 import urllib.request
 from bs4 import BeautifulSoup
 
